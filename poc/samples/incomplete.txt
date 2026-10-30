@@ -1,0 +1,2 @@
+Invoice Number: X-1
+Total: ???

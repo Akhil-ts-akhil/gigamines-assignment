@@ -1,0 +1,8 @@
+pandas
+openpyxl
+# optional, enable more formats:
+python-docx
+pdfplumber
+pytesseract
+pdf2image
+Pillow

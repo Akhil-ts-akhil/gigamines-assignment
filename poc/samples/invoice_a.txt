@@ -1,0 +1,4 @@
+Vendor: Orion Refiners
+Invoice Number: ORN-778
+Invoice Date: 12/10/2026
+Total Amount: Rs 48,250.50
